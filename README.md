@@ -1,7 +1,5 @@
 # VehicleReID-App
 
-<img width="3840" height="2051" alt="image" src="https://github.com/user-attachments/assets/64b2e553-4b1d-4a8b-963d-3bbf5aed851c" />
-<img width="741" height="777" alt="image" src="https://github.com/user-attachments/assets/3318aa30-ae14-41ec-ac28-33f1603376de" />
 <img width="3828" height="2071" alt="image" src="https://github.com/user-attachments/assets/f78e3545-6774-4c39-a0ed-295a64f841aa" />
 
 # Vehicle Re-ID and Segmentation Query GUI
